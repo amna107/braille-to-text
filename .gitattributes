@@ -1,2 +1,5 @@
 models/rf_model.pkl filter=lfs diff=lfs merge=lfs -text
 models/svm_model.pkl filter=lfs diff=lfs merge=lfs -text
+models/cnn_model.keras filter=lfs diff=lfs merge=lfs -text
+models/cnn_model.h5 filter=lfs diff=lfs merge=lfs -text
+models/*.npy filter=lfs diff=lfs merge=lfs -text
