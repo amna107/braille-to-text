@@ -5,8 +5,7 @@ built to help teachers in inclusive classrooms read Braille written by
 visually impaired students.
 
 ## Live Demo
-- Streamlit Cloud: https://YOUR-APP.streamlit.app
-- Hugging Face Spaces: https://huggingface.co/spaces/YOUR_USERNAME/braille-to-text
+- Streamlit Cloud: https://braille-to-text.streamlit.app/
 
 ## Models
 | Model | Accuracy | Precision | Recall | F1 |
