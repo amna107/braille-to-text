@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+cnn_model.h5
+files.txt
+.dockerenv

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+cnn_model.h5
+files.txt
+.git
